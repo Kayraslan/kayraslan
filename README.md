@@ -1,26 +1,15 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  DEĞİŞTİRMEN GEREKENLER:                                                     ║
-║  1. KULLANICI_ADI      → Kayraslan                               ║
-║  2. LINKEDIN_KULLANICI  → kayraslan                               ║
-║  3. INSTAGRAM_KULLANICI → kayraslan0                           ║
-║  4. DISCORD_DAVET       → rsEtwpy39Z                  ║
-║  5. mail@securaiwall.com → kayraslan@securiawall.com                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9C,100:0D1117&height=200&section=header&text=%3E_%20ACCESS%20GRANTED&fontSize=42&fontColor=0D1117&fontAlignY=32&desc=Cyber%20Security%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20Offensive%20Research&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="header"/>
 
-<a href="https://github.com/KULLANICI_ADI">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=700&color=00FF9C&center=true&vCenter=true&width=780&lines=Siber+G%C3%BCvenlik+Uzman%C4%B1+%7C+AI+Engineer;Founder+%40+SecurAIWall+Limited;Offensive+Security+%2B+Machine+Learning;Threat+Detection+%C2%B7+Red+Team+%C2%B7+MLOps" alt="typing"/>
+<a href="https://github.com/Kayraslan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=700&color=00FF9C&center=true&vCenter=true&width=780&lines=Cyber+Security+Specialist+%7C+AI+Engineer;Founder+%40+SecuriaWall+Limited;Offensive+Security+%2B+Machine+Learning;Threat+Detection+%C2%B7+Red+Team+%C2%B7+MLOps" alt="typing"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=KULLANICI_ADI&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/KULLANICI_ADI?label=FOLLOWERS&style=for-the-badge&color=00ff9c&labelColor=0d1117" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=Kayraslan&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/Kayraslan?label=FOLLOWERS&style=for-the-badge&color=00ff9c&labelColor=0d1117" alt="followers"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=0d1117" alt="status"/>
 
 <br/><br/>
@@ -34,31 +23,31 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/> &nbsp;`whoami`
 
 ```bash
-┌──(root💀securaiwall)-[~/profile]
+┌──(root💀securiawall)-[~/profile]
 └─$ cat identity.json
 ```
 
 ```json
 {
-  "isim": "KULLANICI_ADI",
-  "roller": ["Cyber Security Specialist", "AI Engineer", "Founder"],
-  "sirket": "SecurAIWall Limited",
-  "istirak": "HostDock",
-  "odak_alanlari": [
+  "handle": "Kayra Eren Aslan",
+  "roles": ["Cyber Security Specialist", "AI Engineer", "Founder"],
+  "company": "Securiawall Limited",
+  "subsidiary": "Hostdock",
+  "focus_areas": [
     "Offensive Security & Red Teaming",
     "AI-Powered Threat Detection",
     "Malware Analysis & Reverse Engineering",
     "LLM Security & Adversarial ML",
     "Cloud & Infrastructure Hardening"
   ],
-  "felsefe": "Savunmayı anlamak icin saldırıyı bilmek gerekir.",
-  "durum": "Sürekli ögreniyor, sürekli inşa ediyor..."
+  "philosophy": "To master defense, you must first understand offense.",
+  "status": "Always learning. Always building."
 }
 ```
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de50f272e5a993/images/footer.svg" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/W5eOFLGE5MZ8Y4RgLm/giphy.gif" width="35"/> &nbsp;Şirketlerim
+## <img src="https://media.giphy.com/media/W5eOFLGE5MZ8Y4RgLm/giphy.gif" width="35"/> &nbsp;Ventures
 
 <div align="center">
 
@@ -66,30 +55,30 @@
 <tr>
 <td align="center" width="50%">
 
-### 🛡️ SecurAIWall Limited
+### 🛡️ Securiawall Limited
 
-<img src="https://img.shields.io/badge/ANA_ŞİRKET-SecurAIWall-00ff9c?style=for-the-badge&labelColor=0d1117&logo=shieldsdotio&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/PARENT_COMPANY-SecuriaWall-00ff9c?style=for-the-badge&labelColor=0d1117&logo=shieldsdotio&logoColor=00ff9c"/>
 
-**Yapay zeka destekli siber güvenlik çözümleri**
+**AI-powered cyber security solutions**
 
 `AI-Driven Security` · `Threat Intelligence`
 `WAF & Firewall` · `Penetration Testing`
 
-<img src="https://img.shields.io/badge/Rol-Founder_%26_CEO-00ff9c?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Role-Founder_%26_CEO-00ff9c?style=flat-square&labelColor=0d1117"/>
 
 </td>
 <td align="center" width="50%">
 
-### 🐳 HostDock
+### 🐳 Hostdock
 
-<img src="https://img.shields.io/badge/İŞTİRAK-HostDock-00d9ff?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/SUBSIDIARY-HostDock-00d9ff?style=for-the-badge&labelColor=0d1117&logo=docker&logoColor=00d9ff"/>
 
-**Güvenli hosting ve altyapı hizmetleri**
+**Secure hosting & infrastructure services**
 
 `Cloud Hosting` · `Container Infrastructure`
 `DDoS Protection` · `Managed Servers`
 
-<img src="https://img.shields.io/badge/Statü-Subsidiary_of_SecurAIWall-00d9ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Subsidiary_of_SecuriaWall-00d9ff?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
@@ -99,7 +88,7 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de50f272e5a993/images/footer.svg" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"/> &nbsp;Yetenekler & Cephanelik
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"/> &nbsp;Arsenal & Skills
 
 <div align="center">
 
@@ -146,13 +135,13 @@
 
 <br/>
 
-### 💻 Diller
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,go,rust,js,ts,php,java,bash&theme=dark" height="48"/>
 
 <br/>
 
-### ☁️ Altyapı & DevSecOps
+### ☁️ Infrastructure & DevSecOps
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,githubactions,linux,redis,postgres,mongodb&theme=dark" height="48"/>
 <br/>
@@ -165,54 +154,54 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de50f272e5a993/images/footer.svg" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/> &nbsp;İstatistikler
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/> &nbsp;GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADI&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&border_color=00FF9C&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
-<img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADI&theme=chartreuse-dark&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=00FF9C&dates=C9D1D9" alt="streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kayraslan&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&border_color=00FF9C&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
+<img width="41%" src="https://streak-stats.demolab.com?user=Kayraslan&theme=chartreuse-dark&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=00FF9C&dates=C9D1D9" alt="streak"/>
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADI&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&border_color=00FF9C&langs_count=10" alt="langs"/>
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADI&theme=matrix&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8" alt="trophy"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayraslan&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&border_color=00FF9C&langs_count=10" alt="langs"/>
+<img width="48%" src="https://github-profile-trophy.vercel.app/?username=Kayraslan&theme=matrix&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8" alt="trophy"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADI&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=false&border_color=00FF9C&custom_title=Katk%C4%B1%20Aktivitesi" alt="activity"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kayraslan&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=false&border_color=00FF9C&custom_title=Contribution%20Activity" alt="activity"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de50f272e5a993/images/footer.svg" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"/> &nbsp;İletişim
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"/> &nbsp;Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/LINKEDIN_KULLANICI">
+<a href="https://linkedin.com/in/kayraslan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" height="42"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/INSTAGRAM_KULLANICI">
+<a href="https://instagram.com/kayraslan0">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" height="42"/>
 </a>
 &nbsp;
-<a href="https://discord.gg/DISCORD_DAVET">
+<a href="https://discord.gg/rsEtwpy39Z">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" height="42"/>
 </a>
 &nbsp;
-<a href="mailto:mail@securaiwall.com">
-  <img src="https://img.shields.io/badge/E--posta-00ff9c?style=for-the-badge&logo=protonmail&logoColor=0d1117&labelColor=0d1117&color=00ff9c" height="42"/>
+<a href="mailto:kayraslan@securiawall.com">
+  <img src="https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=protonmail&logoColor=0d1117&labelColor=0d1117&color=00ff9c" height="42"/>
 </a>
 
 <br/><br/>
 
 ```console
-┌──(guest💀securaiwall)-[~]
-└─$ echo "İş birliği, proje ve danışmanlık için her zaman açığım."
-İş birliği, proje ve danışmanlık için her zaman açığım.
+┌──(guest💀securiawall)-[~]
+└─$ echo "Always open to collaborations, projects and consulting."
+Always open to collaborations, projects and consulting.
 └─$ exit
-Connection to securaiwall closed.
+Connection to securiawall closed.
 ```
 
 <br/>
