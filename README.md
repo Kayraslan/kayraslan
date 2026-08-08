@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello my name is kayra. I am working on software.<br>🚀I'm currently making tools on my own.<br>✨I currently own Hostizen and Avance.
+👋 Hello my name is kayra. I am working on cyber security.<br>🚀I'm currently making tools on my own.<br>✨I currently founder Securiawall Limited.
 
 
 ## 🌐 Socials:
