@@ -1,11 +1,11 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  DEĞİŞTİRMEN GEREKENLER:                                                     ║
-║  1. KULLANICI_ADI      → GitHub kullanıcı adın                               ║
-║  2. LINKEDIN_KULLANICI  → LinkedIn profil adın                               ║
-║  3. INSTAGRAM_KULLANICI → Instagram kullanıcı adın                           ║
-║  4. DISCORD_DAVET       → Discord davet kodun (ör: aBcD1234)                  ║
-║  5. mail@securaiwall.com → Gerçek e-posta adresin                            ║
+║  1. KULLANICI_ADI      → Kayraslan                               ║
+║  2. LINKEDIN_KULLANICI  → kayraslan                               ║
+║  3. INSTAGRAM_KULLANICI → kayraslan0                           ║
+║  4. DISCORD_DAVET       → rsEtwpy39Z                  ║
+║  5. mail@securaiwall.com → kayraslan@securiawall.com                            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
